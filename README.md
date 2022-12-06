@@ -1,6 +1,6 @@
 # Twitter_Emoji_Prediction
 
-A deep learning model to predict suitable emoji for a given tweet.
+Architected a Long short-term memory (LSTM) in order to predict suitable emoji for a given tweet.Achieved more than 90% accuracy on testing data.
 
 Libraries Used
 
